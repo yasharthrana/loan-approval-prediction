@@ -1,13 +1,22 @@
 # Loan Approval Prediction
 
-This project is an end-to-end machine learning solution to predict whether a loan application is likely to be approved based on applicant details and credit history.
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Project Overview
-Using a dataset of past loan applications, we:
-- Explored and visualized key trends and missing values
-- Built a predictive model (e.g., Logistic Regression, Decision Tree)
-- Evaluated model accuracy and performance
-- Shared findings and insights
+---
+
+## Project Objective
+Predict whether a loan application will be approved based on applicant data, using supervised machine learning techniques.
+
+This end-to-end ML project demonstrates data cleaning, exploratory data analysis (EDA), feature engineering, and building predictive models in Python.
+
+---
+
+## Dataset
+- Historical loan applications with details like applicant income, loan amount, credit history, etc.
+- Stored in: `data/loan_data.csv`
+
+---
 
 ## Tech Stack
 - Python
@@ -16,8 +25,12 @@ Using a dataset of past loan applications, we:
 - Matplotlib, Seaborn
 - Jupyter Notebook
 
+---
+
 ## How to Run
-1. Clone this repo
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/yasharthrana/loan-approval-prediction.git
+cd loan-approval-prediction
+pip install -r requirements.txt
