@@ -4,7 +4,7 @@
 
 ---
 
-## Project Objective
+## Project Objectiv
 Predict whether a loan application will be approved based on applicant data, using supervised machine learning techniques.
 
 This end-to-end ML project demonstrates data cleaning, exploratory data analysis (EDA), feature engineering, and building predictive models in Python.
