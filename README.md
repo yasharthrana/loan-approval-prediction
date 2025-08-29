@@ -1,6 +1,6 @@
 # Loan Approval Prediction
 
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
+![Made wit Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)
 
 ---
 
